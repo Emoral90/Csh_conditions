@@ -1,0 +1,15 @@
+C:\Users\moral\OneDrive\Desktop\School\cse210\Csh_conditions\csh_conditions\bin\Debug\net8.0\csh_conditions.exe
+C:\Users\moral\OneDrive\Desktop\School\cse210\Csh_conditions\csh_conditions\bin\Debug\net8.0\csh_conditions.deps.json
+C:\Users\moral\OneDrive\Desktop\School\cse210\Csh_conditions\csh_conditions\bin\Debug\net8.0\csh_conditions.runtimeconfig.json
+C:\Users\moral\OneDrive\Desktop\School\cse210\Csh_conditions\csh_conditions\bin\Debug\net8.0\csh_conditions.dll
+C:\Users\moral\OneDrive\Desktop\School\cse210\Csh_conditions\csh_conditions\bin\Debug\net8.0\csh_conditions.pdb
+C:\Users\moral\OneDrive\Desktop\School\cse210\Csh_conditions\csh_conditions\obj\Debug\net8.0\csh_conditions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moral\OneDrive\Desktop\School\cse210\Csh_conditions\csh_conditions\obj\Debug\net8.0\csh_conditions.AssemblyInfoInputs.cache
+C:\Users\moral\OneDrive\Desktop\School\cse210\Csh_conditions\csh_conditions\obj\Debug\net8.0\csh_conditions.AssemblyInfo.cs
+C:\Users\moral\OneDrive\Desktop\School\cse210\Csh_conditions\csh_conditions\obj\Debug\net8.0\csh_conditions.csproj.CoreCompileInputs.cache
+C:\Users\moral\OneDrive\Desktop\School\cse210\Csh_conditions\csh_conditions\obj\Debug\net8.0\csh_conditions.sourcelink.json
+C:\Users\moral\OneDrive\Desktop\School\cse210\Csh_conditions\csh_conditions\obj\Debug\net8.0\csh_conditions.dll
+C:\Users\moral\OneDrive\Desktop\School\cse210\Csh_conditions\csh_conditions\obj\Debug\net8.0\refint\csh_conditions.dll
+C:\Users\moral\OneDrive\Desktop\School\cse210\Csh_conditions\csh_conditions\obj\Debug\net8.0\csh_conditions.pdb
+C:\Users\moral\OneDrive\Desktop\School\cse210\Csh_conditions\csh_conditions\obj\Debug\net8.0\csh_conditions.genruntimeconfig.cache
+C:\Users\moral\OneDrive\Desktop\School\cse210\Csh_conditions\csh_conditions\obj\Debug\net8.0\ref\csh_conditions.dll
